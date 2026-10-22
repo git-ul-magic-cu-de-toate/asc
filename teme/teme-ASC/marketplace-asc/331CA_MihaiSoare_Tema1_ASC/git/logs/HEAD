@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 8f3a7167b0b6aa2ebf01213e84879e064bdc39e2 ramsimihai <73987497+ramsimihai@users.noreply.github.com> 1682671248 +0300	clone: from git@github.com:ramsimihai/marketplace-asc.git
+8f3a7167b0b6aa2ebf01213e84879e064bdc39e2 83e9efee51d1b9f385e196547a3b798312ff242c ramsimihai <73987497+ramsimihai@users.noreply.github.com> 1682671415 +0300	commit: Added skel of this assignment
+83e9efee51d1b9f385e196547a3b798312ff242c b79efc85ba1d7e6718615542fcf4dff5fa2543c6 ramsimihai <73987497+ramsimihai@users.noreply.github.com> 1682795013 +0300	commit: Added 100p implementation with basic logging config
+b79efc85ba1d7e6718615542fcf4dff5fa2543c6 8ac246feb1f4cb9043b8df10140068f1bbc28df2 ramsimihai <73987497+ramsimihai@users.noreply.github.com> 1682796867 +0300	commit: Almost fixed pylint
+8ac246feb1f4cb9043b8df10140068f1bbc28df2 7d52245b9321649b590f7eb4fbb048548f7a08b7 ramsimihai <73987497+ramsimihai@users.noreply.github.com> 1682797772 +0300	commit: Added logging that passes tests
+7d52245b9321649b590f7eb4fbb048548f7a08b7 799f53c0c247df4e54539f94790a1836f2b024b3 ramsimihai <73987497+ramsimihai@users.noreply.github.com> 1682802155 +0300	commit: Added test cases and fixed pylint
+799f53c0c247df4e54539f94790a1836f2b024b3 340baebdfcc95f37afce30139cec865a108ff621 ramsimihai <73987497+ramsimihai@users.noreply.github.com> 1682803741 +0300	commit: Added README and comments

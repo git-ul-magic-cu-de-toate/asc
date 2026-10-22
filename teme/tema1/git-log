@@ -1,0 +1,35 @@
+commit 11a66a5a31acd3898e237a7b1ce7a5b70860c20c
+Author: Florin Ioan <subtirica.florin29@gmail.com>
+Date:   Sun Apr 14 22:04:24 2024 +0300
+
+    Update README.md
+
+commit 1e7a1022f58326775f7994729f5c4d741440d55a
+Author: Florin <subtirica.florin29@gmail.com>
+Date:   Sun Apr 14 22:03:00 2024 +0300
+
+    Added log info and README.md.
+
+commit 492d8939ec4a4d2876f51c712a8a8b11e10aca90
+Author: Florin <subtirica.florin29@gmail.com>
+Date:   Sun Apr 14 04:44:24 2024 +0300
+
+    Added the functionalities for routes and data_ingestor.
+
+commit 2dd24c7d0b0df2f2bcd3b0c6f231f3169c8ac72f
+Author: Florin <subtirica.florin29@gmail.com>
+Date:   Sun Apr 14 00:43:24 2024 +0300
+
+    Added implementation for ThreadPool and TaskRunner classes.
+
+commit 29a1adcb98cb2dddb240db481996b6891513e3cc
+Author: Florin <subtirica.florin29@gmail.com>
+Date:   Fri Apr 12 20:52:34 2024 +0300
+
+    Skel upload
+
+commit aa2856f85fbd9dd98db62c15719078be594d14aa
+Author: Florin Ioan <subtirica.florin29@gmail.com>
+Date:   Fri Apr 12 20:49:55 2024 +0300
+
+    Initial commit

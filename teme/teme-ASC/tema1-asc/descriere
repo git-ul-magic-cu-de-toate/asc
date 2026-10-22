@@ -1,0 +1,22 @@
+Marketplace:
+
+maxim_queue -> how many products can be at the same time
+map_carts[id_cart, list_products] -> each customer have an id assigned
+//*** dict[str, list[str]] ***// and a cart 
+
+producer:
+products -> list of products that the producer is building in loop
+republish_wait_time -> time waiting after producing all products
+marketplace -> the marketplace to have global access to the functions
+
+
+consumer:
+carts -> a given carts to try in loop (buy / consume)
+retry_wait_time -> time waiting that a producer must wait until the
+marketplace becomes available 
+
+one producer produces everything he has in a list
+
+market_place:
+
+new_cart -> creates a new entry in the dict of 
